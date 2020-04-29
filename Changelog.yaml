@@ -20,7 +20,7 @@
 #   new recipes:
 #     - title:
 
-- version: 3.47.0
+- version: 3.47.1 (beta)
   date: 2019-08-30
 
   new features:
@@ -2121,4 +2121,3 @@ to appear as Unknown if metadata management was set to manual in calibre."
   new recipes:
     - title: RussiaFeed
       author: Darko Miletic
-
